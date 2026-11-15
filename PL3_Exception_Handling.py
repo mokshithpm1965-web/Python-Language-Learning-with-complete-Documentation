@@ -1,4 +1,3 @@
-'''
 EXCEPTION HANDLING#It is the basixcally error  that happens while the program is running
  for example
 print(10/0)# cause you division by zeero error
@@ -113,5 +112,4 @@ def car_color():
 pass
 #but of ten python programmmers use naming style called as snake_case
 
-    ,,,
-    ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ 
