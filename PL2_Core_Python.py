@@ -1,4 +1,3 @@
-'''
 #DICTIONARIES
 #IT STORES DATA  IN KEY:VALUE PAIRS
 #IF WE THINK LIKE REAL DICTIONARY THEN ;
@@ -120,7 +119,6 @@ print(s1.color)
 #__init__- is a special method (called a constructor) thta is automatically executed when an object of a class is created
 #it is used to initialize the object's attributes(variables)
 
-'''
 #HOME WORK
 class Car:
     def __init__(self,brand, color):
