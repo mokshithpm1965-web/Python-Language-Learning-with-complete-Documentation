@@ -1,5 +1,4 @@
  #printing  name class name clg name etc
-'''
 name="Mokshith PM"
 Class= 4
 age =20
@@ -265,6 +264,6 @@ for i in name:
     print (i)
 strings are immutable ,once  a string object is created , its charecter cannot be cahneged
 append on strings  does not works we  can't add cahrecters to  existring strings
-'''
+
     
     
