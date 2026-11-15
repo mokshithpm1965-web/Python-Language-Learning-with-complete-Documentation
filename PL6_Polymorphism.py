@@ -1,4 +1,3 @@
-'''
 #lesson 23-Polymorphism
 #the word Polymorphism comes from many forma, it means one the can have many forms
 #Example
@@ -161,7 +160,7 @@ Eread line sonly reads one line at a time
 95
 87
 76
-file=open("marks.txt","r)#python opens the file#->95|87|76 The arrow (->)shows the cursor position
+file=open("marks.txt","r")#python opens the file#->95|87|76 The arrow (->)shows the cursor position
 line1=file.readline()#python reads only the first line
 line2=file.readline()#now cursore mmoves to the second python reads the second line
 print(line1)#prints line 1
@@ -501,7 +500,7 @@ print(add(5,3))
 square=lambda x:x
 print(square(6))
 #return  function contains namee but lambda is notx
-'''
+
 
 
 
