@@ -133,13 +133,13 @@ I plan to expand this repository by exploring additional Python concepts, writin
 
 Author
 
-[Your Name]
+Mokshith PM
 
 Electronics and Communication Engineering Student
 
 Copyright Notice
 
-Copyright © 2026 [Your Name]. All rights reserved.
+Copyright © 2026 Mokshith PM. All rights reserved.
 
 The original code implementations and explanations in this repository are my own work, except where otherwise acknowledged.
 
