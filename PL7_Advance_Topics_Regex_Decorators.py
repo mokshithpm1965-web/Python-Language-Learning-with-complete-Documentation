@@ -1,5 +1,4 @@
 #REGULR EXPRESSIONS(Regex)
-'''
 #Regex is used to search ,match and validate pattern  in text
 #For Example
 #check the emaol address is vcal;oid
@@ -481,8 +480,6 @@ change()
 print(x)
 
 
-
-'''
 
 
 
