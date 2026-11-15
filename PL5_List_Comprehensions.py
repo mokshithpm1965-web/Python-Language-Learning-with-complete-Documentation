@@ -1,4 +1,3 @@
- '''
 #List Comprehension with if
 #suppose you only want even numbers from 1 to 10
 #Normal Method
@@ -294,7 +293,6 @@ for value in g:
     print(value)# values is thye variable that understands by python to stoire values in the g
     #here afer a,b,c the for loop catches one moren  next(g) but  for loop catches the stopiteration excep[tion so program doesnt crash 
     #loop willend
-    '''
 
 
 
