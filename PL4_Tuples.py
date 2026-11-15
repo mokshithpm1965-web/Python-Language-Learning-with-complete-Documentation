@@ -1,4 +1,4 @@
-'''#Tuples
+#Tuples
 #Tuples  are just like list but it continsd immutable typer of data
 fruits=("Apple","Banana", "Mango")
 print(fruits)
@@ -196,7 +196,7 @@ print(numbers)
 numbers=[i+10 for i in range(1,6)]
 print(numbers)
 numbers=[i*2 for i in range(1,6)]
-print(numbers)'''
+print(numbers)
 
 
 
